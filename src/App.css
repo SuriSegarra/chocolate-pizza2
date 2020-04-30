@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+}
+
+.ingredients-list{
+  display: table-cell;
+  columns: 2;
+  font-size: 20px ;
+ 
+}
+
